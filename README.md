@@ -1,14 +1,12 @@
 <img align="left" src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif" width="100" height="120">
 
-#    Hi, I'm Vince 👨🏽‍💻
-
-   I'm an Information Technology student specializing in Business Analytics. a passionate individual with a knack for creativity and a love for learning. I thrive on exploring new ideas, solving complex problems, and connecting with people from all walks of life. Do you have questions? Please email or contact me so we can arrange a personal entropy. Thanks!
-
-<br>
-
+#    Hello there! 👨🏽‍💻 👋🏽
 
 
 ### About Me
+
+I'm an Information Technology student specializing in Business Analytics. a passionate individual with a knack for creativity and a love for learning. I thrive on exploring new ideas, solving complex problems, and connecting with people from all walks of life. Do you have questions? Please email or contact me so we can arrange a personal entropy. Thanks!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
