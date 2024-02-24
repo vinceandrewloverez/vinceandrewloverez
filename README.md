@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align="left" src="https://i.imgur.com/vmwlZH1.png" width="100" height="120">
 
-<!--
-**vinceandrewloverez/vinceandrewloverez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Boo!
 
-Here are some ideas to get you started:
+Just your friendly neighborhood Go dabbler who loves network programming, and contributing to open-source projects! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![pgp](https://img.shields.io/badge/pgp-0x1C941973709A1830-313131?style=flat&labelColor=545454&color=313131)](https://github.com/imthaghost.gpg) 
+[![views](https://komarev.com/ghpvc/?username=imthaghost&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/imthaghost)
+[![Static Badge](https://img.shields.io/badge/Instagram-gray?style=flat&labelColor=545454&color=313131&logo=instagram)](https://instagram.com/thaghxst)
+[![Static Badge](https://img.shields.io/badge/Discord-gray?style=flat&labelColor=545454&color=313131&logo=discord)](https://discordapp.com/users/431166312782364692)
+
+<br>
+
+[//]: # (Run `ssh git.imthaghost.dev` to browse my repositories in your terminal.)
+
+### About Me
+
+I'm a Information Technology student specializing in Business Analytics. 
+**~** [_imthaghost_](https://garyf.dev/)
