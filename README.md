@@ -4,17 +4,7 @@
 
 Hi! I'm Vince from Las Vegas Models. I'm a Information Technology student specializing in Business Analytics. Do you have questions? Please email me so we can arrange a personal entropy. Thanks!
 
-
-![Badge](https://dummyimage.com/200x50/4CAF50/ffffff&text=Badge)
-
-[![pgp](https://img.shields.io/badge/pgp-0x1C941973709A1830-313131?style=flat&labelColor=545454&color=313131)](https://github.com/imthaghost.gpg) 
-[![views](https://komarev.com/ghpvc/?username=imthaghost&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/imthaghost)
-[![Static Badge](https://img.shields.io/badge/Instagram-gray?style=flat&labelColor=545454&color=313131&logo=instagram)](https://instagram.com/thaghxst)
-[![Static Badge](https://img.shields.io/badge/Discord-gray?style=flat&labelColor=545454&color=313131&logo=discord)](https://discordapp.com/users/431166312782364692)
-
 <br>
-
-[//]: # (Run `ssh git.imthaghost.dev` to browse my repositories in your terminal.)
 
 ### About Me
 
