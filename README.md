@@ -6,7 +6,7 @@ Hi! I'm Vince from Las Vegas Models. I'm a Information Technology student specia
 
 <br>
 
-<img src="https://i.pinimg.com/564x/a1/f8/9b/a1f89b1ccf83053ef9a8a7c3855772f5.jpg" alt="Description of the image">
+<img align="center" src="https://i.pinimg.com/564x/a1/f8/9b/a1f89b1ccf83053ef9a8a7c3855772f5.jpg" alt="Description of the image">
 
 ### About Me
 
