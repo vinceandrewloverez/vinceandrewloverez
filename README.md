@@ -1,6 +1,6 @@
 <img align="left" src="kween yasmin.png" width="100" height="120">
 
-### Boo!
+# Hi, I'm Vince 👨🏽‍💻
 
 Hi! I'm Vince from Las Vegas Models. I'm an Information Technology student specializing in Business Analytics. Do you have questions? Please email me so we can arrange a personal entropy. Thanks!
 
