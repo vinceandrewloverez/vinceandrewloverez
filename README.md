@@ -1,6 +1,6 @@
 #    Hello there! 👨🏽‍💻 👋🏽
 
-<img src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif" width="100" height="120">
+<img src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif" >
 
 ### About Me
 
