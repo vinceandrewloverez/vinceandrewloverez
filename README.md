@@ -13,6 +13,7 @@ I'm an Information Technology student specializing in Business Analytics. a pass
 <p align="left">
 <a href="https://fb.com/vinceandrewloverez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinceandrewloverez" height="30" width="40" /></a>
 <a href="https://instagram.com/andrewivinceee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrewvinceee" height="30" width="40" /></a>
+<a href="https://github.com/vinceandrewloverez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yourusername" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
