@@ -1,4 +1,4 @@
-<img align="left" src="kween yasmin.png" width="100" height="120">
+<img align="left" src="computer icon.png" width="100" height="120">
 
 # Hi, I'm Vince 👨🏽‍💻
 
@@ -6,7 +6,7 @@ Hi! I'm Vince from Las Vegas Models. I'm an Information Technology student speci
 
 <br>
 
-<img align="center" src="https://i.pinimg.com/564x/60/f4/f4/60f4f487a7206981ada574c8f3693391.jpg" alt="Description of the image">
+
 
 ### About Me
 
