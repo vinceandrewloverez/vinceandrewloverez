@@ -11,7 +11,7 @@ Hi! I'm Vince from Las Vegas Models. I'm a Information Technology student specia
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/vinceandrewloverez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinceandrewloverez" height="30" width="40" /></a>
-<a href="https://instagram.com/andrewivinceee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrewivinceee" height="30" width="40" /></a>
+<a href="https://instagram.com/andrewivinceee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrewvinceee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
