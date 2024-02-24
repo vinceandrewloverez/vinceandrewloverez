@@ -2,7 +2,7 @@
 
 # Hi, I'm Vince 👨🏽‍💻
 
-Hi! I'm Vince from Las Vegas Models. I'm an Information Technology student specializing in Business Analytics. Do you have questions? Please email me so we can arrange a personal entropy. Thanks!
+I'm an Information Technology student specializing in Business Analytics. a passionate individual with a knack for creativity and a love for learning. I thrive on exploring new ideas, solving complex problems, and connecting with people from all walks of life. Do you have questions? Please email or contact me so we can arrange a personal entropy. Thanks!
 
 <br>
 
