@@ -2,7 +2,7 @@
 
 ### Boo!
 
-Hi! I'm Vince from Las Vegas Models. I'm a Information Technology student specializing in Business Analytics. Do you have questions? Please email me so we can arrange a personal entropy. Thanks!
+Hi! I'm Vince from Las Vegas Models. I'm an Information Technology student specializing in Business Analytics. Do you have questions? Please email me so we can arrange a personal entropy. Thanks!
 
 <br>
 
